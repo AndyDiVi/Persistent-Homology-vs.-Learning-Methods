@@ -1,7 +1,7 @@
 # Persistent-Homology-vs.-Learning-Methods
 Official implementation for STAG 2024 paper
 
-![schema_svg](https://github.com/user-attachments/assets/4ca0608d-1fb2-4862-a500-8b15c91cfa11)
+![schema_svg](https://github.com/user-attachments/assets/658818f9-f187-42f1-bdaf-6469a48a6e83)
 
 # Abstract
 This exploratory study compares persistent homology methods with traditional machine learning and deep learning techniques
