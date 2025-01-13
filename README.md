@@ -1,5 +1,5 @@
 # Persistent-Homology-vs.-Learning-Methods
-Official implementation for STAG 2024 paper
+Official implementation for STAG 2024 paper: https://diglib.eg.org/items/1d10fe7b-6e13-4908-ac41-45aad2504e4f
 
 ![schema_svg](https://github.com/user-attachments/assets/658818f9-f187-42f1-bdaf-6469a48a6e83)
 
